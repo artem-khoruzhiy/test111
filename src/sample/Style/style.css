@@ -1,0 +1,13 @@
+#open_button {
+    -fx-background-image: url("../img/open.png");
+
+
+
+}
+
+#button_save {
+    -fx-background-image: url("../img/save.png");
+}
+#button_save_as {
+    -fx-background-image: url("../img/save_as.png");
+}
